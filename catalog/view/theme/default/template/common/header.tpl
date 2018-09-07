@@ -103,7 +103,7 @@
         <?php } ?>
         <?php } ?>
       </ul>
-      <div class="col-sm-3 pull-right"><?php echo $cart; ?></div>
+      <div class="mycart"><?php echo $cart; ?></div>
     </div>
   </nav>
   <?php } ?>

@@ -143,11 +143,12 @@ div.required .control-label:before {
 }
 /* cart */
 #cart {
-	margin: 10px 0 10px 0;
+	margin: 5px 0 5px 0;
+	float:right;
 }
 #cart > .btn {
-	font-size: 12px;
-	line-height: 18px;
+	font-size: 10px;
+	line-height: 10px;
 	color: #FFF;
 }
 #cart.open > .btn {
